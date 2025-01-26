@@ -1,4 +1,4 @@
-'''Uses SeqIO to handle all things for .ab1 files. Requires SeqIO from Bio'''
+'''Uses SeqIO to handle all things for .ab1 files. Requires SeqIO from Bio '''
 from Bio import SeqIO
 
 #read ab1 file into Bio.SeqRecord.SeqRecord object
